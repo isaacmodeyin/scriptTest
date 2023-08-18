@@ -1,3 +1,3 @@
 function myFunction() {
-    document.getElementById("demo").innerHTML="Izzycool changed.";
+    document.getElementById("demo").innerHTML="Second changed.";
 }
